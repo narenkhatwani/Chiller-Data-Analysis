@@ -1,0 +1,53 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "in",
+        "wikidata": "Q668",
+        "place_name": "India"
+      },
+      "geometry": {
+        "coordinates": [
+          77,
+          21
+        ],
+        "type": "Point"
+      },
+      "id": "country.16892466316579250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "IN-MH",
+        "wikidata": "Q1191",
+        "place_name": "Maharashtra, India"
+      },
+      "geometry": {
+        "coordinates": [
+          72.82,
+          18.96
+        ],
+        "type": "Point"
+      },
+      "id": "region.14619236591386080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "IN-MP",
+        "wikidata": "Q1188",
+        "place_name": "Madhya Pradesh, India"
+      },
+      "geometry": {
+        "coordinates": [
+          77.417,
+          23.25
+        ],
+        "type": "Point"
+      },
+      "id": "region.4289334619222440"
+    }
+  ],
+  "type": "FeatureCollection"
+}
